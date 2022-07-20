@@ -3,3 +3,6 @@ description: ""
 url: ""
 baseurl: ""
 theme: minima
+
+- name: jekyll-deploy-gh-pages
+  uses: BryanSchuetz/jekyll-deploy-gh-pages@v2.0
